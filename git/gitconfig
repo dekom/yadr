@@ -1,0 +1,13 @@
+[user]
+	name = Xing Zhou
+	email = xing@xingzhou.me
+[core]
+	editor = vim
+	excludesfile = /home/xing/.gitignore
+[color]
+	status = auto
+	branch = auto
+	interactive = auto
+	diff = auto
+[github]
+	user = dekom
